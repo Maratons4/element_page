@@ -33,3 +33,6 @@ tr:nth-child(odd) {
 tr:hover {
     background-color: darkseagreen;
 }
+iframe {
+    border: 1px solid black;
+}
